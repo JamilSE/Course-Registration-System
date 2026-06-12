@@ -1,0 +1,2 @@
+SignInPage
+courseregistration.CourseRegistration
